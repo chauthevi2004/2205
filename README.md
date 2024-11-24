@@ -86,6 +86,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 
 Special thanks to the contributors and the open-source community for their support and resources.
-```
-
-This `README.md` provides a detailed introduction to your project, including its purpose, structure, features, and usage instructions. 
